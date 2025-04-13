@@ -148,13 +148,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\store.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"eb07ktkgbk"},{"Name":"integrity","Value":"sha256-WmVWFgDgsYgJZZ3nfApogE1slbZHG4jHThlUwVrrxTc="},{"Name":"label","Value":"_content/DumplingStore/js/store.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1844"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022WmVWFgDgsYgJZZ3nfApogE1slbZHG4jHThlUwVrrxTc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 13 Apr 2025 07:54:33 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1844"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022WmVWFgDgsYgJZZ3nfApogE1slbZHG4jHThlUwVrrxTc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 13 Apr 2025 15:22:53 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/DumplingStore/js/store.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\store.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WmVWFgDgsYgJZZ3nfApogE1slbZHG4jHThlUwVrrxTc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1844"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022WmVWFgDgsYgJZZ3nfApogE1slbZHG4jHThlUwVrrxTc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 13 Apr 2025 07:54:33 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1844"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022WmVWFgDgsYgJZZ3nfApogE1slbZHG4jHThlUwVrrxTc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 13 Apr 2025 15:22:53 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/DumplingStore/js/stores.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\stores.js'))</AssetFile>

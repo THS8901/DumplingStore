@@ -2,7 +2,7 @@
 using DumplingStore.DataAccess.Repository.IRepository;
 using DumplingStore.Models;
 
-namespace TeaTimeDemo.Areas.Customer.Controllers
+namespace DumplingStore.Areas.Customer.Controllers
 {
 	[Area("Customer")]
 	public class StoreController : Controller

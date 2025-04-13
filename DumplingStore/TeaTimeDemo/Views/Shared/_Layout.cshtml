@@ -19,7 +19,11 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">九宮聚香</a>
+                @* <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><img src="https://i.imgur.com/RJhA2hY.png" alt="九宮聚香鍋貼水餃館" /></a> *@
+                <a class="navbar-brand d-flex align-items-center" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="https://i.imgur.com/RJhA2hY.png" alt="九宮聚香鍋貼水餃館" style="height: 40px; max-width: 150px; object-fit: contain;" />
+                </a>
+
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                 aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -90,7 +94,7 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2025 - DumplingStore <i class="bi bi-1-circle"></i> - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2025 - 九宮聚香鍋貼水餃館 JiuPalace Dumpling Co. <i class="bi bi-globe-asia-australia"></i> - <a asp-area="" asp-controller="Home" asp-action="Privacy">開發團隊</a>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
