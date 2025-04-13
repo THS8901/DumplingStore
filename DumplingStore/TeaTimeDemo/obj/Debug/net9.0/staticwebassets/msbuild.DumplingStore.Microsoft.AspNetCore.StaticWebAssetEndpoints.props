@@ -16,13 +16,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\DumplingStore.4e7mq6iu0w.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4e7mq6iu0w"},{"Name":"integrity","Value":"sha256-FF\u002BrSjTZGiCiQeiNHNkRfJUNnx\u002BmFF2rQMbq\u002BXv5tdw="},{"Name":"label","Value":"_content/DumplingStore/DumplingStore.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1121"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022FF\u002BrSjTZGiCiQeiNHNkRfJUNnx\u002BmFF2rQMbq\u002BXv5tdw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 13 Apr 2025 08:47:47 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1121"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022FF\u002BrSjTZGiCiQeiNHNkRfJUNnx\u002BmFF2rQMbq\u002BXv5tdw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 13 Apr 2025 09:45:51 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/DumplingStore/DumplingStore.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\DumplingStore.4e7mq6iu0w.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FF\u002BrSjTZGiCiQeiNHNkRfJUNnx\u002BmFF2rQMbq\u002BXv5tdw="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1121"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022FF\u002BrSjTZGiCiQeiNHNkRfJUNnx\u002BmFF2rQMbq\u002BXv5tdw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 13 Apr 2025 08:47:47 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1121"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022FF\u002BrSjTZGiCiQeiNHNkRfJUNnx\u002BmFF2rQMbq\u002BXv5tdw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 13 Apr 2025 09:45:51 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/DumplingStore/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>

@@ -1,0 +1,45 @@
+﻿@{
+   
+    
+
+    // 定义新闻数据
+    var newsList = new List<dynamic>
+    {
+        new { Title = "新品上市", Description = "你以為水餃只能溫柔可愛？這次我們來點不一樣的！全新辣味水餃，嗆辣爽口，刺激味蕾，讓你一口接一口停不下來～只限量供應，快來挑戰你的辣感極限！", PublishDate = DateTime.Now,ImageUrl = "~/images/dum.png" },
+        new { Title = "套餐優惠", Description = "熱呼呼的手工水餃，配上一碗香濃滑順的玉米濃湯，吃得飽也吃得巧～現在點水餃套餐立享優惠價，溫暖加倍，美味不加價！", PublishDate = DateTime.Now.AddDays(-1),ImageUrl = "https://www.hucc-coop.tw/uploads/01%E7%94%A2%E5%93%81%E8%88%87%E7%94%9F%E7%94%A2%E8%80%85/%E7%94%A2%E5%93%81%E5%9C%96%E6%AA%94/%E8%AA%BF%E7%90%86%E9%A3%9F%E6%9D%90/%E8%AA%BF%E7%90%86%E9%A3%9F%E5%93%81/%E9%AB%98%E9%BA%97%E8%8F%9C%E8%B1%AC%E8%82%89%E6%B0%B4%E9%A4%83A.jpg" },
+        new { Title = "周年折扣", Description = "開店周年慶，即日起至5/10，大杯紅茶5折！", PublishDate = DateTime.Now.AddDays(-1),ImageUrl = "https://yukocat.com/wp-content/uploads/pixnet/1af653dbfc939260e904564b479993d7.jpg" }
+    };
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>最新消息</title>
+    <style>
+        .news-item {
+            margin-bottom: 20px;
+            padding: 10px;
+            border-bottom: 1px solid #ccc;
+        }
+
+        .news-img {
+            height: 200px; /* Set a fixed height */
+            object-fit: cover; /* Cover style will help maintain aspect ratio */
+        }
+    </style>
+    </style>
+</head>
+<body>
+    <h2>最新消息</h2>
+    @foreach (var item in newsList)
+    {
+        <div class="news-item">
+            <h3>@item.Title</h3>
+            <img src="@Url.Content(item.ImageUrl)" class="card-img-top news-img" alt="News Image">
+            <p>@item.Description</p>
+            <p>@item.PublishDate.ToString("yyyy-MM-dd")</p>
+        </div>
+    }
+</body>
+</html>
