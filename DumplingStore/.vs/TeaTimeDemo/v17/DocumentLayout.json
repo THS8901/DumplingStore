@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E71D742C-6877-48F7-BD27-B373A3B70B44}|TeaTimeDemo\\DumplingStore.csproj|d:\\githubrepositories\\dumplingstore\\dumplingstore\\teatimedemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E71D742C-6877-48F7-BD27-B373A3B70B44}|TeaTimeDemo\\DumplingStore.csproj|solutionrelative:teatimedemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "TeaTimeDemo\\appsettings.json",
+              "ToolTip": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\appsettings.json*",
+              "RelativeToolTip": "TeaTimeDemo\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T09:19:46.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

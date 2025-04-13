@@ -1,0 +1,13 @@
+D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo.Models\bin\Debug\net9.0\DumplingStore.Models.deps.json
+D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo.Models\bin\Debug\net9.0\DumplingStore.Models.dll
+D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo.Models\bin\Debug\net9.0\DumplingStore.Models.pdb
+D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo.Models\obj\Debug\net9.0\DumplingStore.Models.csproj.AssemblyReference.cache
+D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo.Models\obj\Debug\net9.0\DumplingStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo.Models\obj\Debug\net9.0\DumplingStore.Models.AssemblyInfoInputs.cache
+D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo.Models\obj\Debug\net9.0\DumplingStore.Models.AssemblyInfo.cs
+D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo.Models\obj\Debug\net9.0\DumplingStore.Models.csproj.CoreCompileInputs.cache
+D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo.Models\obj\Debug\net9.0\DumplingStore.Models.sourcelink.json
+D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo.Models\obj\Debug\net9.0\DumplingStore.Models.dll
+D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo.Models\obj\Debug\net9.0\refint\DumplingStore.Models.dll
+D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo.Models\obj\Debug\net9.0\DumplingStore.Models.pdb
+D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo.Models\obj\Debug\net9.0\ref\DumplingStore.Models.dll
