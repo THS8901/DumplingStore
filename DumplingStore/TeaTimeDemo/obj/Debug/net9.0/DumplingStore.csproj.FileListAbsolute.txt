@@ -365,7 +365,6 @@ D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo\obj\Debug\net9.0\c
 D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo\obj\Debug\net9.0\compressed\3zizg7d249-n78urwb6ui.gz
 D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo\obj\Debug\net9.0\compressed\838nnwe5hr-fr7q2aak1r.gz
 D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo\obj\Debug\net9.0\compressed\yxlt5ek8ob-eb07ktkgbk.gz
-D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo\obj\Debug\net9.0\compressed\mynzthia7l-fqc0q5zj50.gz
 D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo\obj\Debug\net9.0\compressed\40azn0jv31-agp80tu62r.gz
 D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo\obj\Debug\net9.0\compressed\p25uo6girh-st1cbwfwo5.gz
 D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo\obj\Debug\net9.0\compressed\abx9mqlmgw-unj9p35syc.gz
@@ -440,3 +439,4 @@ D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo\obj\Debug\net9.0\r
 D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo\obj\Debug\net9.0\DumplingStore.pdb
 D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo\obj\Debug\net9.0\DumplingStore.genruntimeconfig.cache
 D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo\obj\Debug\net9.0\ref\DumplingStore.dll
+D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo\obj\Debug\net9.0\compressed\mynzthia7l-p0a14ow1jx.gz

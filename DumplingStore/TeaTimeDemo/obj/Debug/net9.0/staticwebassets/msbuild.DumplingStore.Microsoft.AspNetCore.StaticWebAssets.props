@@ -246,8 +246,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>fqc0q5zj50</Fingerprint>
-      <Integrity>iUGN706tM93qy4pW9tj1WF25Qg2j6eKL4pCS2njCGLk=</Integrity>
+      <Fingerprint>p0a14ow1jx</Fingerprint>
+      <Integrity>B/PB3Q0LR3SLHuGp+9mNj/zyWGo4QULLXj/N9KDqOCg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\stores.js'))</OriginalItemSpec>

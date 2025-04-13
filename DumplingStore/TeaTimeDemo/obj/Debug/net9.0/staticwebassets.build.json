@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UhXyP81JjpuliebDzHGKplvNTkom9smPlgz9AR/OyDw=",
+  "Hash": "XPhAWXtkmPedxXK7ifj4jIW9B6Iju75T0Qr/hc6+1CM=",
   "Source": "DumplingStore",
   "BasePath": "_content/DumplingStore",
   "Mode": "Default",
@@ -2831,12 +2831,12 @@
       "OriginalItemSpec": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\obj\\Debug\\net9.0\\compressed\\mynzthia7l-fqc0q5zj50.gz",
+      "Identity": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\obj\\Debug\\net9.0\\compressed\\mynzthia7l-p0a14ow1jx.gz",
       "SourceId": "DumplingStore",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/DumplingStore",
-      "RelativePath": "js/stores#[.{fingerprint=fqc0q5zj50}]?.js.gz",
+      "RelativePath": "js/stores#[.{fingerprint=p0a14ow1jx}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2845,8 +2845,8 @@
       "RelatedAsset": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\js\\stores.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "iak4ve4op6",
-      "Integrity": "uvZ1m1GRPushPDmGN4iAL5YQePWBh3jgCreVDvgBP4A=",
+      "Fingerprint": "q5neyqli4j",
+      "Integrity": "vkaz8mGDY/9iUJYKWjNb35y7FRUkhUjEciuMaP7U4HI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\js\\stores.js"
@@ -4294,8 +4294,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "fqc0q5zj50",
-      "Integrity": "iUGN706tM93qy4pW9tj1WF25Qg2j6eKL4pCS2njCGLk=",
+      "Fingerprint": "p0a14ow1jx",
+      "Integrity": "B/PB3Q0LR3SLHuGp+9mNj/zyWGo4QULLXj/N9KDqOCg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\stores.js"
@@ -16802,13 +16802,13 @@
       ]
     },
     {
-      "Route": "js/stores.fqc0q5zj50.js",
-      "AssetFile": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\obj\\Debug\\net9.0\\compressed\\mynzthia7l-fqc0q5zj50.gz",
+      "Route": "js/stores.js",
+      "AssetFile": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\obj\\Debug\\net9.0\\compressed\\mynzthia7l-p0a14ow1jx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001269035533"
+          "Quality": "0.003690036900"
         }
       ],
       "ResponseHeaders": [
@@ -16818,19 +16818,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "787"
+          "Value": "270"
         },
         {
           "Name": "ETag",
-          "Value": "\"uvZ1m1GRPushPDmGN4iAL5YQePWBh3jgCreVDvgBP4A=\""
+          "Value": "\"vkaz8mGDY/9iUJYKWjNb35y7FRUkhUjEciuMaP7U4HI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 07:54:33 GMT"
+          "Value": "Sun, 13 Apr 2025 12:41:25 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -16846,26 +16846,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"iUGN706tM93qy4pW9tj1WF25Qg2j6eKL4pCS2njCGLk=\""
+          "Value": "W/\"B/PB3Q0LR3SLHuGp+9mNj/zyWGo4QULLXj/N9KDqOCg=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "fqc0q5zj50"
-        },
-        {
-          "Name": "label",
-          "Value": "js/stores.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-iUGN706tM93qy4pW9tj1WF25Qg2j6eKL4pCS2njCGLk="
+          "Value": "sha256-B/PB3Q0LR3SLHuGp+9mNj/zyWGo4QULLXj/N9KDqOCg="
         }
       ]
     },
     {
-      "Route": "js/stores.fqc0q5zj50.js",
+      "Route": "js/stores.js",
       "AssetFile": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\js\\stores.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -16875,7 +16867,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1889"
+          "Value": "522"
         },
         {
           "Name": "Content-Type",
@@ -16883,11 +16875,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iUGN706tM93qy4pW9tj1WF25Qg2j6eKL4pCS2njCGLk=\""
+          "Value": "\"B/PB3Q0LR3SLHuGp+9mNj/zyWGo4QULLXj/N9KDqOCg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 07:54:33 GMT"
+          "Value": "Sun, 13 Apr 2025 12:41:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B/PB3Q0LR3SLHuGp+9mNj/zyWGo4QULLXj/N9KDqOCg="
+        }
+      ]
+    },
+    {
+      "Route": "js/stores.js.gz",
+      "AssetFile": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\obj\\Debug\\net9.0\\compressed\\mynzthia7l-p0a14ow1jx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "270"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vkaz8mGDY/9iUJYKWjNb35y7FRUkhUjEciuMaP7U4HI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 12:41:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vkaz8mGDY/9iUJYKWjNb35y7FRUkhUjEciuMaP7U4HI="
+        }
+      ]
+    },
+    {
+      "Route": "js/stores.p0a14ow1jx.js",
+      "AssetFile": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\obj\\Debug\\net9.0\\compressed\\mynzthia7l-p0a14ow1jx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003690036900"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "270"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vkaz8mGDY/9iUJYKWjNb35y7FRUkhUjEciuMaP7U4HI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 12:41:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"B/PB3Q0LR3SLHuGp+9mNj/zyWGo4QULLXj/N9KDqOCg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p0a14ow1jx"
+        },
+        {
+          "Name": "label",
+          "Value": "js/stores.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-B/PB3Q0LR3SLHuGp+9mNj/zyWGo4QULLXj/N9KDqOCg="
+        }
+      ]
+    },
+    {
+      "Route": "js/stores.p0a14ow1jx.js",
+      "AssetFile": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\js\\stores.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B/PB3Q0LR3SLHuGp+9mNj/zyWGo4QULLXj/N9KDqOCg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 12:41:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16897,7 +17034,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fqc0q5zj50"
+          "Value": "p0a14ow1jx"
         },
         {
           "Name": "label",
@@ -16905,13 +17042,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-iUGN706tM93qy4pW9tj1WF25Qg2j6eKL4pCS2njCGLk="
+          "Value": "sha256-B/PB3Q0LR3SLHuGp+9mNj/zyWGo4QULLXj/N9KDqOCg="
         }
       ]
     },
     {
-      "Route": "js/stores.fqc0q5zj50.js.gz",
-      "AssetFile": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\obj\\Debug\\net9.0\\compressed\\mynzthia7l-fqc0q5zj50.gz",
+      "Route": "js/stores.p0a14ow1jx.js.gz",
+      "AssetFile": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\obj\\Debug\\net9.0\\compressed\\mynzthia7l-p0a14ow1jx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16920,7 +17057,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "787"
+          "Value": "270"
         },
         {
           "Name": "Content-Type",
@@ -16928,11 +17065,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uvZ1m1GRPushPDmGN4iAL5YQePWBh3jgCreVDvgBP4A=\""
+          "Value": "\"vkaz8mGDY/9iUJYKWjNb35y7FRUkhUjEciuMaP7U4HI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 07:54:33 GMT"
+          "Value": "Sun, 13 Apr 2025 12:41:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16950,7 +17087,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fqc0q5zj50"
+          "Value": "p0a14ow1jx"
         },
         {
           "Name": "label",
@@ -16958,144 +17095,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-uvZ1m1GRPushPDmGN4iAL5YQePWBh3jgCreVDvgBP4A="
-        }
-      ]
-    },
-    {
-      "Route": "js/stores.js",
-      "AssetFile": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\obj\\Debug\\net9.0\\compressed\\mynzthia7l-fqc0q5zj50.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001269035533"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "787"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"uvZ1m1GRPushPDmGN4iAL5YQePWBh3jgCreVDvgBP4A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 07:54:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"iUGN706tM93qy4pW9tj1WF25Qg2j6eKL4pCS2njCGLk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-iUGN706tM93qy4pW9tj1WF25Qg2j6eKL4pCS2njCGLk="
-        }
-      ]
-    },
-    {
-      "Route": "js/stores.js",
-      "AssetFile": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\js\\stores.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1889"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"iUGN706tM93qy4pW9tj1WF25Qg2j6eKL4pCS2njCGLk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 07:54:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-iUGN706tM93qy4pW9tj1WF25Qg2j6eKL4pCS2njCGLk="
-        }
-      ]
-    },
-    {
-      "Route": "js/stores.js.gz",
-      "AssetFile": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\obj\\Debug\\net9.0\\compressed\\mynzthia7l-fqc0q5zj50.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "787"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"uvZ1m1GRPushPDmGN4iAL5YQePWBh3jgCreVDvgBP4A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 07:54:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-uvZ1m1GRPushPDmGN4iAL5YQePWBh3jgCreVDvgBP4A="
+          "Value": "sha256-vkaz8mGDY/9iUJYKWjNb35y7FRUkhUjEciuMaP7U4HI="
         }
       ]
     },

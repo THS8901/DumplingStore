@@ -1,14 +1,55 @@
 ﻿@{
     ViewData["Title"] = "開發團隊";
 }
-<h1>@ViewData["Title"]</h1>
 
-@* <p>Use this page to detail 開發團隊.</p> *@
+@section Styles {
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
+    <style>
+        html {
+            scroll-padding-top: 80px;
+        }
 
-<div class="container mt-5 mb-5">
-    <h1 class="text-center mb-4 text-danger fw-bold">九宮聚香鍋貼水餃館 開發團隊介紹</h1>
+        h1, h2, h3, h5 {
+            color: #8B0000;
+        }
 
-    <div class="C1">
+        p, li {
+            font-size: 18px;
+            color: #5c3a00;
+        }
+
+        .team-container {
+            max-width: 1140px;
+            margin: auto;
+            padding: 40px 20px;
+            background-image: url("https://i.imgur.com/ta1dRpK.png");
+            /* background: #fff5e6; */
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+        }
+
+        .card-title {
+            color: #8B0000 !important;
+        }
+
+        .card-img-top {
+            height: 200px;
+            object-fit: cover;
+        }
+
+        .team-section {
+            margin-bottom: 50px;
+        }
+    </style>
+}
+
+<div class="team-container" data-aos="fade-up">
+    <div class="text-center mb-4">
+        <h1 class="fw-bold">九宮聚香鍋貼水餃館 開發團隊介紹</h1>
+        <hr />
+    </div>
+
+    <div class="team-section" data-aos="fade-up">
         <p>
             在「九宮聚香鍋貼水餃館」致力於傳承百年美食文化的同時，我們也希望透過現代化的科技，
             將傳統風味以嶄新的方式呈現給每一位顧客。因此，本網站的開發由一支熱血且專業的開發團隊傾力打造，
@@ -19,28 +60,20 @@
             搭配模組化資料存取層與嚴謹的 MVC 分層設計，確保網站在效能、安全性與可擴充性上皆具備現代標準。
         </p>
         <p>
-            專案結構包含 Admin/Customer 雙區塊架構、模組化 Controller/View、Razor Page 管理後台、
-            以及 ViewModel、Repository 等架構設計，同時整合 Google 地圖與自適應網頁設計（RWD），
-            提供完整、流暢的用餐與管理體驗。
-        </p>
-        <p>
-            團隊成員秉持著開放協作、持續學習的精神進行開發，我們也持續朝向功能深化與客製化發展，
-            未來預計整合會員系統、線上訂餐與數位點餐平板介面，實現六面聚香品牌數位轉型的願景。
-        </p>
-        <p>
-            本團隊堅信科技應為傳統服務，願以匠心與熱情，為顧客打造一個既便利又溫暖的數位用餐體驗。
+            團隊成員秉持著開放協作、持續學習的精神進行開發，並持續朝向功能深化與客製化發展，未來預計整合會員系統、線上訂餐與數位點餐平板介面，
+            實現六面聚香品牌數位轉型的願景。
         </p>
     </div>
 
     <h2 class="text-center mb-4">團隊成員介紹</h2>
 
-    <div class="row row-cols-1 row-cols-md-3 g-4">
+    <div class="row row-cols-1 row-cols-md-3 g-4 mb-5" data-aos="fade-up">
         <!-- 成員 1 -->
         <div class="col">
             <div class="card h-100 shadow">
                 <img src="https://via.placeholder.com/300x200?text=成員1" class="card-img-top" alt="團隊成員圖片">
                 <div class="card-body">
-                    <h5 class="card-title text-danger fw-bold">成員1名字</h5>
+                    <h5 class="card-title fw-bold">成員1名字</h5>
                     <p class="card-text">後端開發負責人，負責整體資料架構設計、Controller 與資料庫操作（EF Core）。專長於 API 開發與身份驗證系統。</p>
                 </div>
             </div>
@@ -51,7 +84,7 @@
             <div class="card h-100 shadow">
                 <img src="https://via.placeholder.com/300x200?text=成員2" class="card-img-top" alt="團隊成員圖片">
                 <div class="card-body">
-                    <h5 class="card-title text-danger fw-bold">成員2名字</h5>
+                    <h5 class="card-title fw-bold">成員2名字</h5>
                     <p class="card-text">前端與 UI 設計，負責整體視覺風格、Razor View 頁面開發與 RWD 響應式設計。擅長 UX 流程與 Bootstrap 架構應用。</p>
                 </div>
             </div>
@@ -62,88 +95,54 @@
             <div class="card h-100 shadow">
                 <img src="https://via.placeholder.com/300x200?text=成員3" class="card-img-top" alt="團隊成員圖片">
                 <div class="card-body">
-                    <h5 class="card-title text-danger fw-bold">成員3名字</h5>
-                    <p class="card-text">全端協調與資料管理，負責資料遷移、Migration 編寫與部署工作，並協助 DevOps 環境建置與 GitHub CI/CD 流程設計。</p>
+                    <h5 class="card-title fw-bold">成員3名字</h5>
+                    <p class="card-text">全端協調與資料管理，負責資料遷移、Migration 編寫與部署，協助 DevOps 環境建置與 CI/CD 流程設計。</p>
                 </div>
             </div>
         </div>
     </div>
 
-</div>
+    <h2 class="text-center mb-4">技術與展望</h2>
 
-<div class="container mt-5 mb-5">
-    <h1 class="text-center mb-4 text-danger fw-bold">關於我們的開發團隊</h1>
-
-    <div class="C2" style="">
-        <p>
-            在「九宮聚香鍋貼水餃館」致力於傳承百年美食文化的同時，我們也希望透過現代化的科技，將傳統風味以嶄新的方式呈現給每一位顧客。因此，本網站的開發由一支熱血且專業的開發團隊傾力打造，運用當前最新的技術框架，將品牌精神轉化為數位體驗，實現「經典與創新」的完美融合。
-        </p>
-
-        <h2 class="mt-4 mb-2 fw-bold">團隊技術棧與核心理念</h2>
-        <p>
-            本網站是由我們開發團隊採用 <strong>ASP.NET Core 9.0 MVC 架構</strong> 進行建置，結合 <strong>Entity Framework Core</strong> 作為 ORM 解決方案，搭配模組化資料存取層與嚴謹的 MVC 分層設計，確保網站在效能、安全性與可擴充性上皆具備現代標準。
-        </p>
-        <p>
-            我們遵循乾淨架構（Clean Architecture）原則進行開發，將資料存取層（Data Access）、商業邏輯層（Service Layer）與使用者介面（View）清楚分離，使程式碼具備良好維護性與測試性。
-        </p>
-
-        <h2 class="mt-4 mb-2 fw-bold">專案架構概覽</h2>
-        <p>從方案總管中可以看到，我們的專案名稱為 <code>DumplingStore</code>，象徵「享受每一刻的數位用餐時光」。專案整體分為以下主要區塊：</p>
-
-        <h5>1. Areas 模組化管理</h5>
+    <div class="team-section" data-aos="fade-up">
+        <h5>1. 專案技術與架構</h5>
         <ul>
-            <li><strong>Admin Area：</strong>包含 Category、Product、Store 三大模組，每個模組皆具備獨立的 Controller 與 Razor Page（如 Index.cshtml, Upsert.cshtml），用於後台資料管理。</li>
-            <li><strong>Customer Area：</strong>由 HomeController 控制首頁、品牌介紹、門市資訊等對外頁面。</li>
+            <li>ASP.NET Core 9.0 + Entity Framework Core ORM</li>
+            <li>乾淨架構（Clean Architecture）：資料層 / 商業邏輯層 / UI 分離</li>
+            <li>模組化 MVC，包含 Admin/Customer 區塊、Razor Page 管理後台</li>
         </ul>
 
-        <h5>2. 前端靜態資源（wwwroot）</h5>
+        <h5>2. 前端技術</h5>
         <ul>
-            <li>所有 CSS、JavaScript 與圖片素材統一置於 wwwroot 資料夾。</li>
-            <li>使用 site.js 負責全站互動效果，product.js 與 store.js 處理模組互動邏輯。</li>
+            <li>RWD 響應式設計（Bootstrap）</li>
+            <li>資料表介面整合 DataTables.js</li>
+            <li>SweetAlert、Toastr 增強互動性</li>
         </ul>
 
-        <h5>3. 資料存取層（DumplingStore.DataAccess）</h5>
+        <h5>3. 功能亮點</h5>
         <ul>
-            <li>使用 ApplicationDbContext 作為資料庫入口，整合 Product、Category、Store 等資料模型。</li>
-            <li>資料表異動透過 Migration 管理與追蹤，確保版本一致性。</li>
+            <li>地圖導覽功能整合 Google Maps API</li>
+            <li>會員系統 + 授權機制</li>
+            <li>支援數位點餐、後台管理</li>
         </ul>
 
-        <h5>4. 模型與 ViewModel 管理</h5>
+        <h5>4. 團隊文化</h5>
         <ul>
-            <li>DumplingStore.Models 定義主要資料模型。</li>
-            <li>ViewModels 用於處理複合頁面需求，例如 ProductVM。</li>
+            <li>團隊成員秉持開放協作精神，透過 GitHub 控管版本，進行持續交付與週期性驗收。</li>
         </ul>
 
-        <h5>5. 公用工具與常數定義（DumplingStore.Utility）</h5>
+        <h5>5. 未來展望</h5>
         <ul>
-            <li>包含 EmailSender、SD 等公用類別與系統常數。</li>
+            <li>導入 AI 食材預測模型與庫存優化</li>
+            <li>開放 API 串接行動 APP 點餐系統</li>
+            <li>推進海外拓點，打造全球美食品牌</li>
         </ul>
-
-        <h2 class="mt-4 mb-2 fw-bold">技術亮點與功能實作</h2>
-        <ul>
-            <li><strong>分店資訊頁面：</strong>整合 Razor Page 與 Google Maps API，讓顧客可查詢地區與導航。</li>
-            <li><strong>後台管理系統：</strong>提供完整 CRUD 管理功能，並整合 EF Core 自動追蹤。</li>
-            <li><strong>響應式設計：</strong>支援手機、平板與桌面裝置。</li>
-            <li><strong>安全性考量：</strong>整合 ASP.NET Core Identity 與使用者角色管理。</li>
-        </ul>
-
-        <h2 class="mt-4 mb-2 fw-bold">團隊文化與合作模式</h2>
-        <p>
-            我們是一支由前端工程師、後端開發者與資料庫設計師組成的跨領域團隊。秉持開放協作、持續交付、相互支援的精神進行開發，並使用 GitHub 作為版本控管與協作平台，每週進行 Sprint 迭代與功能驗收，確保專案穩定發展。
-        </p>
-
-        <h2 class="mt-4 mb-2 fw-bold">展望未來</h2>
-        <p>
-            我們將持續優化網站功能，未來規劃包含：
-        </p>
-        <ul>
-            <li>顧客會員系統與點數集成</li>
-            <li>線上訂餐與即時庫存查詢</li>
-            <li>消費記錄與訂單查詢歷史</li>
-            <li>店內設備（如點餐平板）系統串接</li>
-        </ul>
-        <p>
-            我們相信，透過團隊的努力，「九宮聚香」將在數位轉型中持續領航，為更多顧客帶來溫暖、美味與便利。
-        </p>
     </div>
 </div>
+
+@section Scripts {
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+}

@@ -1,79 +1,149 @@
 ﻿@{
-    ViewData["Title"] = "Information";
+    ViewData["Title"] = "公司資訊";
 }
-@* <h1>@ViewData["Title"]</h1> *@
 
-@* <p>Use this page to detail your site's Information.</p> *@
+@section Styles {
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
+    <style>
+        html {
+            scroll-padding-top: 80px;
+        }
 
-<div class="container" id="container2">
-    <img src="https://cdn.discordapp.com/attachments/955506323607404584/1359429919364616295/raw.png?ex=67f77345&is=67f621c5&hm=186910f0a69da3d7f84dd26ff170fc3b6b931a2b00559f9e527eaf3af9c67d00&" alt="Alternate Text" />
-    <hr>
-    <h1>九宮聚香鍋貼水餃館&nbsp;</h1>
-    <hr>
-    <h3>一、企業背景與歷史沿革</h3>
-    <p>九宮聚香鍋貼水餃館創立於民國初年，距今已逾一百年歷史。最初創辦人為一位對中式點心充滿熱忱的廚師，憑藉祖傳秘方與精益求精的手藝，從一個街邊小攤發展成為地方知名老店。多代傳承下來，家族不僅保留了純正的烹調手藝，也在時代變遷中不斷創新。店內牆上依稀可見歷代大師留下的手寫食譜與歷史珍藏照片，見證了九宮聚香從區域小店到全國連鎖品牌的蛻變歷程。&nbsp;</p>
-    <hr>
-    <h3>二、經營理念與文化精神</h3>
-    <p>&nbsp;• 傳統精髓，永續傳承 九宮聚香堅持傳承百年老店的真諦，秉持創始人「用心製作、誠信經營」的理念，每一道菜品都融入了家族秘方與深厚的文化積澱。&nbsp;</p>
-    <p>• 創新發展，與時俱進 在保留傳統工藝的同時，九宮聚香積極引進現代化烹飪設備與數位化管理系統，從線下用餐體驗延伸到線上點餐與外送服務，滿足現代消費者多元化需求。</p>
-    <p>&nbsp;• 品質第一，顧客至上 嚴格把關每一項食材來源，從鮮肉、蔬菜到香料，均經過多道檢驗程序，確保健康、安全與最佳風味。</p>
-    <p>&nbsp;• 社區情懷，文化傳承 作為一間歷史悠久的老店，九宮聚香深耕在地文化，積極參與在地美食節及公益活動，讓百年老味道與社區緊密相連。</p>
-    <hr>
-    <h3>&nbsp;三、核心產品與創新特色&nbsp;</h3>
-    <h4>1. 經典鍋貼</h4>
-    <p>&nbsp;o 製作工藝：採用自家研發的極薄麵皮，包裹著多汁且調味均衡的內餡，經由高溫快速煎至金黃酥脆。&nbsp;</p>
-    <p>o 特色口感：外層酥脆中帶著內餡的鮮嫩與汁香，搭配特製的香醋、辣油及蒜泥醬汁，風味十足。&nbsp;</p>
-    <p>o 歷代秘訣：製作過程中，廚師家族傳授的「三層鋪底法」與獨創的手工拍皮技術，均是店內經典口味得以延續的關鍵。&nbsp;</p>
-    <h4>2. 經典水餃 </h4>
-    <p>o 餡料選擇：主打豬肉與蔥花的傳統組合，同時推出鮮蝦、香菇及蔬菜等多款口味，滿足不同年齡層喜好。&nbsp;</p>
-    <p>o 手工製作：每一顆水餃皆由熟練師傅現包，保證薄而不破、餡料多汁，讓顧客品嘗到最原始的家鄉味道。&nbsp;</p>
-    <p>o 健康考量：堅持無添加、低油煙的烹飪理念，致力於提供營養均衡又健康的傳統美食。&nbsp;</p>
-    <h4>3. 創意附餐與現代化調整&nbsp;</h4>
-    <p>o 時令小菜：根據季節變換推出各種配菜，如酸辣拌木耳、清爽小黃瓜等，平衡口感並增加食慾。&nbsp;</p>
-    <p>o 風味湯品：結合傳統藥膳與現代營養學，研發出兼具溫補與清熱效果的湯品，既是美味的餐前熱身也是餐後的理想選擇。&nbsp;</p>
-    <p>o 現代點餐體系：引進智慧點餐及外送平台，顧客可線上下單，店方亦提供預約取餐、節慶限定套餐等多項服務，既滿足老顧客情懷也吸引新世代消費者。&nbsp;</p>
-    <hr>
-    <h3>四、店面裝潢與用餐體驗 九宮聚香的店面設計融合了傳統中式元素與現代簡約風格&nbsp;</h3>
-    <p>• 懷舊風格：店內陳列古典家族照片、手寫食譜以及歷史紀念品，使顧客在品嘗美食的同時，能感受到深厚的文化底蘊。&nbsp;</p>
-    <p>• 現代舒適：配合舒適的座位佈局與暖色調燈光，營造出溫馨、愜意的用餐氛圍。 • 數位升級：店內搭配自助點餐機與行動支付系統，加快點餐流程，提升服務效率，同時保留傳統風味與人情味。&nbsp;</p>
-    <hr>
-    <h3>五、社會責任與展望未來</h3>
-    <p>&nbsp;• 傳承與創新：九宮聚香深知百年老店不僅是美食的傳遞，更是文化的延續。未來店方將持續研發符合現代人口味的新菜色，同時舉辦烹飪講座、文化講習，推廣傳統飲食藝術。</p>
-    <p>&nbsp;• 環保永續：在原材料採購與店內廚房管理上，積極引入環保理念，例如使用可分解包裝與節能設備，降低營運對環境的影響。</p>
-    <p>&nbsp;• 數位轉型：隨著消費習慣的改變，九宮聚香將擴展線上訂餐、會員系統與社群經營，打造全方位智能餐飲體驗，連結全球老顧客與新時代用戶。&nbsp;</p>
-    <p>• 在地深耕：持續參與社區活動與地方文化節慶，以美食為媒介，傳承在地文化並促進區域經濟發展。</p>
-    <hr>
-    <p>&nbsp;________________________________________&nbsp;</p>
-    <p>
-        這份詳細的公司簡介不僅涵蓋了九宮聚香鍋貼水餃館百年歷史與傳承核心，同時也展示了店家如何在保留傳統精髓的前提下，積極融入現代化創新與社會責任。無論在履歷專案展示或是作為電子菜單系統的應用案例，都能充分體現企業的深厚底蘊與發展藍圖。&nbsp;<br>
-    </p>
-    <img src="https://cdn.discordapp.com/attachments/955506323607404584/1359430562737033296/raw.png?ex=67f773df&is=67f6225f&hm=2a81c34a6d525ca47d0c83935d728d807f56350d1e27e1630610de6adf77d202&" alt="Alternate Text" />
+        h1, h3, h4 {
+            color: #8B0000;
+        }
 
-    <head>
-        <style>
-            p{
-                font-size:20px;
-                color:darkgoldenrod;
+        p, li {
+            font-size: 18px;
+            color: #5c3a00;
+        }
+
+        .info-container {
+            max-width: 1140px;
+            margin: auto;
+            padding: 40px 20px;
+            background-image: url("https://i.imgur.com/ta1dRpK.png");
+            /* background: #fff5e6; */
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+        }
+
+        .info-banner {
+            text-align: center;
+        }
+
+            .info-banner img {
+                max-height: 200px;
+                margin-bottom: 15px;
             }
 
-            h1 {
-                font-size: 38px;
-                color: brown;
+        .section-nav {
+            position: sticky;
+            top: 40px;
+            z-index: 900;
+            background-color: #fff5e6;
+            padding: 10px 0;
+            border-bottom: 1px solid #ddd;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+            .section-nav a {
+                margin: 0 15px;
+                font-weight: bold;
+                color: #8B0000;
+                text-decoration: none;
             }
 
-            h3 {
-                font-size: 32px;
-                color: chocolate;
-            }
+                .section-nav a:hover {
+                    text-decoration: underline;
+                }
 
-            h4 {
-                font-size: 26px;
-                color: coral;
-            }
+        section {
+            scroll-margin-top: 100px;
+            margin-bottom: 40px;
+        }
+    </style>
+}
 
-            #container2 {
-                background-image: url("https://cdn.discordapp.com/attachments/955506323607404584/1359429908400439458/raw.png?ex=67f77343&is=67f621c3&hm=7a19bb868e3b88877bac80c929e24603aa44349264095bf0d9cab29922a074dd&"); /*設定背景圖片*/
-            }
+<div class="info-container" data-aos="fade-up">
+    <div class="info-banner">
+        <img src="https://i.imgur.com/NXAOZtT.png" alt="Logo" class="img-fluid rounded" />
+        <h1 class="fw-bold">九宮聚香鍋貼水餃館</h1>
+        <hr />
+    </div>
 
-        </style>
-    </head>
+    <div class="section-nav">
+        <a href="#history">歷史沿革</a>
+        <a href="#mission">經營理念</a>
+        <a href="#products">產品特色</a>
+        <a href="#experience">用餐體驗</a>
+        <a href="#future">社會責任</a>
+    </div>
+
+    <section id="history" data-aos="fade-up">
+        <h3>一、企業背景與歷史沿革</h3>
+        <p>
+            九宮聚香鍋貼水餃館創立於民國初年，距今已逾一百年歷史。最初創辦人為一位對中式點心充滿熱忱的廚師，憑藉祖傳秘方與精益求精的手藝，從街邊小攤發展成地方知名老店。歷經多代傳承，九宮聚香在保留經典技藝的同時，也持續創新，成為全台知名連鎖品牌。
+        </p>
+    </section>
+
+    <section id="mission" data-aos="fade-up">
+        <h3>二、經營理念與文化精神</h3>
+        <ul>
+            <li><strong>傳統精髓，永續傳承：</strong> 堅持手工製作與誠信經營。</li>
+            <li><strong>創新發展，與時俱進：</strong> 整合線上平台與智能點餐系統。</li>
+            <li><strong>品質第一，顧客至上：</strong> 嚴選食材，製程透明。</li>
+            <li><strong>社區情懷，文化傳承：</strong> 積極參與在地活動，推廣飲食美學。</li>
+        </ul>
+    </section>
+
+    <section id="products" data-aos="fade-up">
+        <h3>三、核心產品與創新特色</h3>
+        <h4>1. 經典鍋貼</h4>
+        <ul>
+            <li>極薄麵皮、酥脆底層、多汁內餡。</li>
+            <li>搭配特製手工辣醬，香氣四溢。</li>
+        </ul>
+        <h4>2. 手工水餃</h4>
+        <ul>
+            <li>口味多樣：高麗菜豬肉、韭菜、鮮蝦等。</li>
+            <li>每日新鮮現包，皮薄餡多。</li>
+        </ul>
+        <h4>3. 創新附餐</h4>
+        <ul>
+            <li>結合台味與健康概念，推出「涼拌木耳」、「酥炸花枝酥」等招牌小菜。</li>
+            <li>提供線上訂餐、門市自助點餐與外送服務。</li>
+        </ul>
+    </section>
+
+    <section id="experience" data-aos="fade-up">
+        <h3>四、用餐體驗與服務</h3>
+        <ul>
+            <li><strong>懷舊裝潢：</strong> 店內陳設復古風，展現文化底蘊。</li>
+            <li><strong>舒適空間：</strong> 寬敞明亮、座位多元，適合各年齡層顧客。</li>
+            <li><strong>數位升級：</strong> 提供 Wi-Fi、自助機與行動支付。</li>
+        </ul>
+    </section>
+
+    <section id="future" data-aos="fade-up">
+        <h3>五、社會責任與未來展望</h3>
+        <ul>
+            <li>響應 ESG 環保政策，採用可分解包材。</li>
+            <li>發展顧客會員與點數集成。</li>
+            <li>計畫拓展至海外市場，弘揚台灣小吃文化。</li>
+        </ul>
+    </section>
+
+    <section class="text-center" data-aos="fade-up">
+        <p class="fw-bold mt-4">九宮聚香，融合百年技藝與現代精神，致力打造美味、文化與便利兼具的飲食體驗。</p>
+        <img src="https://i.imgur.com/foh2Zoq.png" alt="品牌團隊" class="img-fluid rounded shadow mt-3" style="max-width: 600px;" />
+    </section>
+</div>
+
+@section Scripts {
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+}
