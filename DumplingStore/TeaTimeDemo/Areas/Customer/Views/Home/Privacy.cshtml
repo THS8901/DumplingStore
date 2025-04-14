@@ -9,6 +9,11 @@
             scroll-padding-top: 80px;
         }
 
+        body {
+            background: #fffefb;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
         h1, h2, h3, h5 {
             color: #8B0000;
         }
@@ -21,123 +26,156 @@
         .team-container {
             max-width: 1140px;
             margin: auto;
-            padding: 40px 20px;
-            background-image: url("https://i.imgur.com/ta1dRpK.png");
-            /* background: #fff5e6; */
-            border-radius: 12px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+            padding: 60px 30px;
+            background: linear-gradient(to bottom right, #fffaf0, #fff3e0);
+            border-radius: 15px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
         }
 
         .card-title {
-            color: #8B0000 !important;
+            font-size: 26px ;
+            color: orangered !important;
         }
+
+        /* .card-img-top { */
+        /*     height: 220px; */
+        /*     object-fit: cover; */
+        /* } */
 
         .card-img-top {
             height: 200px;
-            object-fit: cover;
+            object-fit: contain;
         }
 
-        .team-section {
-            margin-bottom: 50px;
+        .card {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border: none;
         }
-    </style>
+
+            .card:hover {
+                transform: translateY(-6px);
+                box-shadow: 0 8px 20px rgba(139, 0, 0, 0.2);
+            }
+
+        .section-header {
+            margin-bottom: 40px;
+        }
+
+        ul {
+            padding-left: 1.3rem;
+        }
+
+        .member-role {
+            font-size: 18px;
+            color: darkred;
+            margin-bottom: 0.5rem;
+        }
+
+
+        h1 {
+            font-size: 38px;
+        }
+
+        h2 {
+            font-size: 30px;
+        }
+
+        .card-img-top {
+            height: 160px;
+        }
+
+        .team-container {
+            padding: 40px 20px;
+        }
+
+        </style>
 }
 
 <div class="team-container" data-aos="fade-up">
-    <div class="text-center mb-4">
+    <div class="text-center mb-5">
         <h1 class="fw-bold">九宮聚香鍋貼水餃館 開發團隊介紹</h1>
-        <hr />
+        <hr class="w-50 mx-auto" />
     </div>
 
-    <div class="team-section" data-aos="fade-up">
+    <section class="team-section mb-5" data-aos="fade-up">
         <p>
-            在「九宮聚香鍋貼水餃館」致力於傳承百年美食文化的同時，我們也希望透過現代化的科技，
-            將傳統風味以嶄新的方式呈現給每一位顧客。因此，本網站的開發由一支熱血且專業的開發團隊傾力打造，
-            運用當前最新的技術框架，將品牌精神轉化為數位體驗，實現「經典與創新」的完美融合。
+            「九宮聚香鍋貼水餃館」秉持傳承百年美食文化的精神，致力於透過現代化科技展現品牌魅力。本網站由一支熱血專業的開發團隊打造，採用最新的 ASP.NET Core 9.0 MVC 框架，結合 Entity Framework Core 與模組化設計，實現品牌精神的數位化轉型。
         </p>
         <p>
-            本網站是由我們開發團隊採用 ASP.NET Core 9.0 MVC 架構進行建置，結合 Entity Framework Core 作為 ORM 解決方案，
-            搭配模組化資料存取層與嚴謹的 MVC 分層設計，確保網站在效能、安全性與可擴充性上皆具備現代標準。
+            團隊成員以開放協作、持續創新的態度推進專案，致力於功能深化與使用者體驗優化，未來亦將結合會員管理、線上訂餐、平板點餐等智慧功能，邁向完整數位轉型藍圖。
         </p>
-        <p>
-            團隊成員秉持著開放協作、持續學習的精神進行開發，並持續朝向功能深化與客製化發展，未來預計整合會員系統、線上訂餐與數位點餐平板介面，
-            實現六面聚香品牌數位轉型的願景。
-        </p>
-    </div>
+    </section>
 
-    <h2 class="text-center mb-4">團隊成員介紹</h2>
+    <section class="text-center mb-4" data-aos="fade-up">
+        <h2 class="fw-bold">團隊成員介紹</h2>
+    </section>
 
-    <div class="row row-cols-1 row-cols-md-3 g-4 mb-5" data-aos="fade-up">
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 mb-5 justify-content-center" data-aos="fade-up">
         <!-- 成員 1 -->
         <div class="col">
-            <div class="card h-100 shadow">
-                <img src="https://via.placeholder.com/300x200?text=成員1" class="card-img-top" alt="團隊成員圖片">
+            <div class="card h-100 shadow-sm">
+                <img src="https://i.imgur.com/SrcfcK5.jpg" class="card-img-top" alt="陳鈺勝">
                 <div class="card-body">
-                    <h5 class="card-title fw-bold">成員1名字</h5>
-                    <p class="card-text">後端開發負責人，負責整體資料架構設計、Controller 與資料庫操作（EF Core）。專長於 API 開發與身份驗證系統。</p>
+                    <h5 class="card-title fw-bold">陳鈺勝</h5>
+                    <div class="member-role">經歷與專長</div>
+                    <p class="card-text">
+                        中正大學醫療資訊管理碩士、淡江資管系畢。擅長 Java、C#、Firebase、Oracle、SQL Server、ASP.NET MVC，專精於後端與資料庫整合。
+                    </p>
                 </div>
             </div>
         </div>
 
         <!-- 成員 2 -->
         <div class="col">
-            <div class="card h-100 shadow">
-                <img src="https://via.placeholder.com/300x200?text=成員2" class="card-img-top" alt="團隊成員圖片">
+            <div class="card h-100 shadow-sm">
+                <img src="https://i.imgur.com/vI1VErc.png" class="card-img-top" alt="唐詳勝">
                 <div class="card-body">
-                    <h5 class="card-title fw-bold">成員2名字</h5>
-                    <p class="card-text">前端與 UI 設計，負責整體視覺風格、Razor View 頁面開發與 RWD 響應式設計。擅長 UX 流程與 Bootstrap 架構應用。</p>
-                </div>
-            </div>
-        </div>
-
-        <!-- 成員 3 -->
-        <div class="col">
-            <div class="card h-100 shadow">
-                <img src="https://via.placeholder.com/300x200?text=成員3" class="card-img-top" alt="團隊成員圖片">
-                <div class="card-body">
-                    <h5 class="card-title fw-bold">成員3名字</h5>
-                    <p class="card-text">全端協調與資料管理，負責資料遷移、Migration 編寫與部署，協助 DevOps 環境建置與 CI/CD 流程設計。</p>
+                    <h5 class="card-title fw-bold">唐詳勝</h5>
+                    <div class="member-role">經歷與專長</div>
+                    <p class="card-text">
+                        宜蘭大學人工智慧碩士、資訊工程學士。精通 Python、OpenCV、TensorFlow、Keras、C#、ASP.NET MVC，具備全端與 AI 整合實務經驗。
+                    </p>
                 </div>
             </div>
         </div>
     </div>
 
-    <h2 class="text-center mb-4">技術與展望</h2>
+    <section class="team-section" data-aos="fade-up">
+        <h2 class="fw-bold mb-4">技術與展望</h2>
 
-    <div class="team-section" data-aos="fade-up">
         <h5>1. 專案技術與架構</h5>
         <ul>
             <li>ASP.NET Core 9.0 + Entity Framework Core ORM</li>
-            <li>乾淨架構（Clean Architecture）：資料層 / 商業邏輯層 / UI 分離</li>
-            <li>模組化 MVC，包含 Admin/Customer 區塊、Razor Page 管理後台</li>
+            <li>乾淨架構（Clean Architecture）：資料層 / 邏輯層 / UI 分離</li>
+            <li>模組化區塊（Admin / Customer）、Razor Page 管理後台</li>
         </ul>
 
         <h5>2. 前端技術</h5>
         <ul>
             <li>RWD 響應式設計（Bootstrap）</li>
-            <li>資料表介面整合 DataTables.js</li>
-            <li>SweetAlert、Toastr 增強互動性</li>
+            <li>資料表顯示整合 DataTables.js</li>
+            <li>SweetAlert、Toastr 提升互動性</li>
         </ul>
 
         <h5>3. 功能亮點</h5>
         <ul>
-            <li>地圖導覽功能整合 Google Maps API</li>
-            <li>會員系統 + 授權機制</li>
-            <li>支援數位點餐、後台管理</li>
+            <li>門市 Google Maps 地圖導覽</li>
+            <li>會員系統與角色授權管理</li>
+            <li>支援行動裝置下單、後台資料維護</li>
         </ul>
 
         <h5>4. 團隊文化</h5>
         <ul>
-            <li>團隊成員秉持開放協作精神，透過 GitHub 控管版本，進行持續交付與週期性驗收。</li>
+            <li>團隊採用 GitHub 協作，進行版本控管與階段驗收，落實 Agile 精神。</li>
         </ul>
 
         <h5>5. 未來展望</h5>
         <ul>
-            <li>導入 AI 食材預測模型與庫存優化</li>
-            <li>開放 API 串接行動 APP 點餐系統</li>
-            <li>推進海外拓點，打造全球美食品牌</li>
+            <li>整合 AI 食材需求預測與庫存分析</li>
+            <li>開放 API 串接行動點餐與會員應用</li>
+            <li>發展海外據點，實現全球鍋貼品牌願景</li>
         </ul>
-    </div>
+    </section>
 </div>
 
 @section Scripts {
