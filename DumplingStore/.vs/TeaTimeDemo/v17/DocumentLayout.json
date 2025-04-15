@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E71D742C-6877-48F7-BD27-B373A3B70B44}|TeaTimeDemo\\DumplingStore.csproj|d:\\githubrepositories\\dumplingstore\\dumplingstore\\teatimedemo\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E71D742C-6877-48F7-BD27-B373A3B70B44}|TeaTimeDemo\\DumplingStore.csproj|solutionrelative:teatimedemo\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E71D742C-6877-48F7-BD27-B373A3B70B44}|TeaTimeDemo\\DumplingStore.csproj|d:\\githubrepositories\\dumplingstore\\dumplingstore\\teatimedemo\\areas\\customer\\views\\home\\news.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E71D742C-6877-48F7-BD27-B373A3B70B44}|TeaTimeDemo\\DumplingStore.csproj|solutionrelative:teatimedemo\\areas\\customer\\views\\home\\news.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E71D742C-6877-48F7-BD27-B373A3B70B44}|TeaTimeDemo\\DumplingStore.csproj|d:\\githubrepositories\\dumplingstore\\dumplingstore\\teatimedemo\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E71D742C-6877-48F7-BD27-B373A3B70B44}|TeaTimeDemo\\DumplingStore.csproj|solutionrelative:teatimedemo\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E71D742C-6877-48F7-BD27-B373A3B70B44}|TeaTimeDemo\\DumplingStore.csproj|d:\\githubrepositories\\dumplingstore\\dumplingstore\\teatimedemo\\areas\\customer\\views\\home\\information.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E71D742C-6877-48F7-BD27-B373A3B70B44}|TeaTimeDemo\\DumplingStore.csproj|solutionrelative:teatimedemo\\areas\\customer\\views\\home\\information.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E71D742C-6877-48F7-BD27-B373A3B70B44}|TeaTimeDemo\\DumplingStore.csproj|d:\\githubrepositories\\dumplingstore\\dumplingstore\\teatimedemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E71D742C-6877-48F7-BD27-B373A3B70B44}|TeaTimeDemo\\DumplingStore.csproj|solutionrelative:teatimedemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E71D742C-6877-48F7-BD27-B373A3B70B44}|TeaTimeDemo\\DumplingStore.csproj|d:\\githubrepositories\\dumplingstore\\dumplingstore\\teatimedemo\\areas\\customer\\views\\home\\information.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E71D742C-6877-48F7-BD27-B373A3B70B44}|TeaTimeDemo\\DumplingStore.csproj|solutionrelative:teatimedemo\\areas\\customer\\views\\home\\information.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E71D742C-6877-48F7-BD27-B373A3B70B44}|TeaTimeDemo\\DumplingStore.csproj|d:\\githubrepositories\\dumplingstore\\dumplingstore\\teatimedemo\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E71D742C-6877-48F7-BD27-B373A3B70B44}|TeaTimeDemo\\DumplingStore.csproj|solutionrelative:teatimedemo\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E71D742C-6877-48F7-BD27-B373A3B70B44}|TeaTimeDemo\\DumplingStore.csproj|d:\\githubrepositories\\dumplingstore\\dumplingstore\\teatimedemo\\wwwroot\\js\\stores.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -50,11 +54,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T04:24:35.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "store.js",
               "DocumentMoniker": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\js\\store.js",
               "RelativeDocumentMoniker": "TeaTimeDemo\\wwwroot\\js\\store.js",
@@ -66,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "StoreController.cs",
               "DocumentMoniker": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\Areas\\Admin\\Controllers\\StoreController.cs",
               "RelativeDocumentMoniker": "TeaTimeDemo\\Areas\\Admin\\Controllers\\StoreController.cs",
@@ -78,33 +95,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "News.cshtml",
               "DocumentMoniker": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\Areas\\Customer\\Views\\Home\\News.cshtml",
               "RelativeDocumentMoniker": "TeaTimeDemo\\Areas\\Customer\\Views\\Home\\News.cshtml",
-              "ToolTip": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\Areas\\Customer\\Views\\Home\\News.cshtml*",
-              "RelativeToolTip": "TeaTimeDemo\\Areas\\Customer\\Views\\Home\\News.cshtml*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAALAAAAAAAAAA==",
+              "ToolTip": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\Areas\\Customer\\Views\\Home\\News.cshtml",
+              "RelativeToolTip": "TeaTimeDemo\\Areas\\Customer\\Views\\Home\\News.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-13T14:15:59.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TeaTimeDemo\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "TeaTimeDemo\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-13T12:47:42.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
@@ -117,19 +134,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Information.cshtml",
               "DocumentMoniker": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Information.cshtml",
               "RelativeDocumentMoniker": "TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Information.cshtml",
               "ToolTip": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Information.cshtml",
               "RelativeToolTip": "TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Information.cshtml",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAjwJUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAjwJUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T12:43:27.636Z"
+              "WhenOpened": "2025-04-13T12:43:27.636Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "stores.js",
               "DocumentMoniker": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\js\\stores.js",
               "RelativeDocumentMoniker": "TeaTimeDemo\\wwwroot\\js\\stores.js",
@@ -141,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Stores.cshtml",
               "DocumentMoniker": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Stores.cshtml",
               "RelativeDocumentMoniker": "TeaTimeDemo\\Areas\\Customer\\Views\\Home\\Stores.cshtml",
@@ -153,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "StoreController.cs",
               "DocumentMoniker": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\Areas\\Customer\\Controllers\\StoreController.cs",
               "RelativeDocumentMoniker": "TeaTimeDemo\\Areas\\Customer\\Controllers\\StoreController.cs",
@@ -165,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\appsettings.json",
               "RelativeDocumentMoniker": "TeaTimeDemo\\appsettings.json",
