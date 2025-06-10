@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DumplingStore.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ce98e20dfaf7efb1bcc2f2c04cc9d9670416ba7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+454a75a26eef50738cd1577e1e1b40d194c144a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("DumplingStore.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DumplingStore.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
