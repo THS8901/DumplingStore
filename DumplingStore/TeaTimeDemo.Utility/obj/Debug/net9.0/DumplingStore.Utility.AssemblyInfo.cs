@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DumplingStore.Utility")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6529f1d6f9599326cc0c4488b29af4f0bf0d7d8f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ce98e20dfaf7efb1bcc2f2c04cc9d9670416ba7")]
 [assembly: System.Reflection.AssemblyProductAttribute("DumplingStore.Utility")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DumplingStore.Utility")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MRUpHphNqgpF0+x8iG7wGlvdsnbjpLCFLqaUL17oJbw=",
+  "Hash": "051058Rd/MDdEZu3ubIcEfX9Xq+Z2hKZGflipn2ZhOk=",
   "Source": "DumplingStore",
   "BasePath": "_content/DumplingStore",
   "Mode": "Default",
@@ -4091,6 +4091,69 @@
       "OriginalItemSpec": "wwwroot\\images\\dum.png"
     },
     {
+      "Identity": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\images\\Product\\1ab04bab-073a-41a5-9069-0c756486c98f.png",
+      "SourceId": "DumplingStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\",
+      "BasePath": "_content/DumplingStore",
+      "RelativePath": "images/Product/1ab04bab-073a-41a5-9069-0c756486c98f#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eyy8lrpx71",
+      "Integrity": "CkyGgyXk15yeFVvsRcxY+sufxKTwHBIqA/zv65+QPFA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Product\\1ab04bab-073a-41a5-9069-0c756486c98f.png"
+    },
+    {
+      "Identity": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\images\\Product\\285c8fff-3093-46a4-bc1b-4d7129e47c2f.png",
+      "SourceId": "DumplingStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\",
+      "BasePath": "_content/DumplingStore",
+      "RelativePath": "images/Product/285c8fff-3093-46a4-bc1b-4d7129e47c2f#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dkxusrltw1",
+      "Integrity": "bX0QU0N4JmI1OxI7VF7rvbP4Lzp2Y6ASXNQ5aOn5cAQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Product\\285c8fff-3093-46a4-bc1b-4d7129e47c2f.png"
+    },
+    {
+      "Identity": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\images\\Product\\49ca35cd-7e32-4905-bdb3-ca164c3dc19e.png",
+      "SourceId": "DumplingStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\",
+      "BasePath": "_content/DumplingStore",
+      "RelativePath": "images/Product/49ca35cd-7e32-4905-bdb3-ca164c3dc19e#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yx5ftv6fcl",
+      "Integrity": "KvvDeNHFaFuZqDB5My9TNfzjVbfcsrdugqxaP6R4INM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Product\\49ca35cd-7e32-4905-bdb3-ca164c3dc19e.png"
+    },
+    {
       "Identity": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\images\\Product\\4a300be3-2c1b-414f-b4e9-1289a2305aa9.png",
       "SourceId": "DumplingStore",
       "SourceType": "Discovered",
@@ -4154,6 +4217,27 @@
       "OriginalItemSpec": "wwwroot\\images\\Product\\a1f98369-cc35-47a4-bafa-657b42ba6199.png"
     },
     {
+      "Identity": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\images\\Product\\a82a7959-fda1-4e43-a9aa-aea24e2bfc38.png",
+      "SourceId": "DumplingStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\",
+      "BasePath": "_content/DumplingStore",
+      "RelativePath": "images/Product/a82a7959-fda1-4e43-a9aa-aea24e2bfc38#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "17fa8swo4i",
+      "Integrity": "k5xtn1oi7lvRfLjBx3HWemFvQQ7l/RhUPp/4pgsf1Ec=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Product\\a82a7959-fda1-4e43-a9aa-aea24e2bfc38.png"
+    },
+    {
       "Identity": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\images\\Product\\d6ce91bd-e27c-4d81-aa46-da6d7780ac3d.png",
       "SourceId": "DumplingStore",
       "SourceType": "Discovered",
@@ -4194,6 +4278,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Product\\d980d6ce-660c-4fda-881c-5365de8409e1.png"
+    },
+    {
+      "Identity": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\images\\Product\\d9d422f8-2c41-49fa-bff7-ea7afdec7602.png",
+      "SourceId": "DumplingStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\",
+      "BasePath": "_content/DumplingStore",
+      "RelativePath": "images/Product/d9d422f8-2c41-49fa-bff7-ea7afdec7602#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "10qvcqxpta",
+      "Integrity": "YRkZT58yk+QlMHmQ62krLqfvJR9E2KBIMaIaA6XF/lA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Product\\d9d422f8-2c41-49fa-bff7-ea7afdec7602.png"
     },
     {
       "Identity": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\images\\Product\\f89698ff-4e82-4b43-91dd-d2098680a70f.png",
@@ -15379,6 +15484,252 @@
       ]
     },
     {
+      "Route": "images/Product/1ab04bab-073a-41a5-9069-0c756486c98f.eyy8lrpx71.png",
+      "AssetFile": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\images\\Product\\1ab04bab-073a-41a5-9069-0c756486c98f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1695549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CkyGgyXk15yeFVvsRcxY+sufxKTwHBIqA/zv65+QPFA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Jun 2025 08:03:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eyy8lrpx71"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Product/1ab04bab-073a-41a5-9069-0c756486c98f.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CkyGgyXk15yeFVvsRcxY+sufxKTwHBIqA/zv65+QPFA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Product/1ab04bab-073a-41a5-9069-0c756486c98f.png",
+      "AssetFile": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\images\\Product\\1ab04bab-073a-41a5-9069-0c756486c98f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1695549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CkyGgyXk15yeFVvsRcxY+sufxKTwHBIqA/zv65+QPFA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Jun 2025 08:03:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CkyGgyXk15yeFVvsRcxY+sufxKTwHBIqA/zv65+QPFA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Product/285c8fff-3093-46a4-bc1b-4d7129e47c2f.dkxusrltw1.png",
+      "AssetFile": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\images\\Product\\285c8fff-3093-46a4-bc1b-4d7129e47c2f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bX0QU0N4JmI1OxI7VF7rvbP4Lzp2Y6ASXNQ5aOn5cAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Jun 2025 07:56:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dkxusrltw1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Product/285c8fff-3093-46a4-bc1b-4d7129e47c2f.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bX0QU0N4JmI1OxI7VF7rvbP4Lzp2Y6ASXNQ5aOn5cAQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/Product/285c8fff-3093-46a4-bc1b-4d7129e47c2f.png",
+      "AssetFile": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\images\\Product\\285c8fff-3093-46a4-bc1b-4d7129e47c2f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bX0QU0N4JmI1OxI7VF7rvbP4Lzp2Y6ASXNQ5aOn5cAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Jun 2025 07:56:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bX0QU0N4JmI1OxI7VF7rvbP4Lzp2Y6ASXNQ5aOn5cAQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/Product/49ca35cd-7e32-4905-bdb3-ca164c3dc19e.png",
+      "AssetFile": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\images\\Product\\49ca35cd-7e32-4905-bdb3-ca164c3dc19e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1854233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KvvDeNHFaFuZqDB5My9TNfzjVbfcsrdugqxaP6R4INM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Jun 2025 08:12:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KvvDeNHFaFuZqDB5My9TNfzjVbfcsrdugqxaP6R4INM="
+        }
+      ]
+    },
+    {
+      "Route": "images/Product/49ca35cd-7e32-4905-bdb3-ca164c3dc19e.yx5ftv6fcl.png",
+      "AssetFile": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\images\\Product\\49ca35cd-7e32-4905-bdb3-ca164c3dc19e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1854233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KvvDeNHFaFuZqDB5My9TNfzjVbfcsrdugqxaP6R4INM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Jun 2025 08:12:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yx5ftv6fcl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Product/49ca35cd-7e32-4905-bdb3-ca164c3dc19e.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KvvDeNHFaFuZqDB5My9TNfzjVbfcsrdugqxaP6R4INM="
+        }
+      ]
+    },
+    {
       "Route": "images/Product/4a300be3-2c1b-414f-b4e9-1289a2305aa9.haay8k6ddr.png",
       "AssetFile": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\images\\Product\\4a300be3-2c1b-414f-b4e9-1289a2305aa9.png",
       "Selectors": [],
@@ -15625,6 +15976,88 @@
       ]
     },
     {
+      "Route": "images/Product/a82a7959-fda1-4e43-a9aa-aea24e2bfc38.17fa8swo4i.png",
+      "AssetFile": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\images\\Product\\a82a7959-fda1-4e43-a9aa-aea24e2bfc38.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1504138"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k5xtn1oi7lvRfLjBx3HWemFvQQ7l/RhUPp/4pgsf1Ec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Jun 2025 08:18:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "17fa8swo4i"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Product/a82a7959-fda1-4e43-a9aa-aea24e2bfc38.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k5xtn1oi7lvRfLjBx3HWemFvQQ7l/RhUPp/4pgsf1Ec="
+        }
+      ]
+    },
+    {
+      "Route": "images/Product/a82a7959-fda1-4e43-a9aa-aea24e2bfc38.png",
+      "AssetFile": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\images\\Product\\a82a7959-fda1-4e43-a9aa-aea24e2bfc38.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1504138"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k5xtn1oi7lvRfLjBx3HWemFvQQ7l/RhUPp/4pgsf1Ec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Jun 2025 08:18:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k5xtn1oi7lvRfLjBx3HWemFvQQ7l/RhUPp/4pgsf1Ec="
+        }
+      ]
+    },
+    {
       "Route": "images/Product/d6ce91bd-e27c-4d81-aa46-da6d7780ac3d.d2nb9fxh2w.png",
       "AssetFile": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\images\\Product\\d6ce91bd-e27c-4d81-aa46-da6d7780ac3d.png",
       "Selectors": [],
@@ -15785,6 +16218,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-gBJUN4NiH6F89r1TwvzC3W0jWfTRaapi4msaMDc3kDw="
+        }
+      ]
+    },
+    {
+      "Route": "images/Product/d9d422f8-2c41-49fa-bff7-ea7afdec7602.10qvcqxpta.png",
+      "AssetFile": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\images\\Product\\d9d422f8-2c41-49fa-bff7-ea7afdec7602.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1466771"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YRkZT58yk+QlMHmQ62krLqfvJR9E2KBIMaIaA6XF/lA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Jun 2025 07:37:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "10qvcqxpta"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Product/d9d422f8-2c41-49fa-bff7-ea7afdec7602.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YRkZT58yk+QlMHmQ62krLqfvJR9E2KBIMaIaA6XF/lA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Product/d9d422f8-2c41-49fa-bff7-ea7afdec7602.png",
+      "AssetFile": "D:\\GithubRepositories\\DumplingStore\\DumplingStore\\TeaTimeDemo\\wwwroot\\images\\Product\\d9d422f8-2c41-49fa-bff7-ea7afdec7602.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1466771"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YRkZT58yk+QlMHmQ62krLqfvJR9E2KBIMaIaA6XF/lA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Jun 2025 07:37:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YRkZT58yk+QlMHmQ62krLqfvJR9E2KBIMaIaA6XF/lA="
         }
       ]
     },

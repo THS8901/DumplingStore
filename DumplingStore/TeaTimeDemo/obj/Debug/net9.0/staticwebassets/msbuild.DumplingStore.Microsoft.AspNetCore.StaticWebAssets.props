@@ -72,6 +72,60 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dum.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Product\1ab04bab-073a-41a5-9069-0c756486c98f.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DumplingStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DumplingStore</BasePath>
+      <RelativePath>images/Product/1ab04bab-073a-41a5-9069-0c756486c98f.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>eyy8lrpx71</Fingerprint>
+      <Integrity>CkyGgyXk15yeFVvsRcxY+sufxKTwHBIqA/zv65+QPFA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Product\1ab04bab-073a-41a5-9069-0c756486c98f.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Product\285c8fff-3093-46a4-bc1b-4d7129e47c2f.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DumplingStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DumplingStore</BasePath>
+      <RelativePath>images/Product/285c8fff-3093-46a4-bc1b-4d7129e47c2f.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dkxusrltw1</Fingerprint>
+      <Integrity>bX0QU0N4JmI1OxI7VF7rvbP4Lzp2Y6ASXNQ5aOn5cAQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Product\285c8fff-3093-46a4-bc1b-4d7129e47c2f.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Product\49ca35cd-7e32-4905-bdb3-ca164c3dc19e.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DumplingStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DumplingStore</BasePath>
+      <RelativePath>images/Product/49ca35cd-7e32-4905-bdb3-ca164c3dc19e.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>yx5ftv6fcl</Fingerprint>
+      <Integrity>KvvDeNHFaFuZqDB5My9TNfzjVbfcsrdugqxaP6R4INM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Product\49ca35cd-7e32-4905-bdb3-ca164c3dc19e.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Product\4a300be3-2c1b-414f-b4e9-1289a2305aa9.png'))">
       <SourceType>Package</SourceType>
       <SourceId>DumplingStore</SourceId>
@@ -126,6 +180,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Product\a1f98369-cc35-47a4-bafa-657b42ba6199.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Product\a82a7959-fda1-4e43-a9aa-aea24e2bfc38.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DumplingStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DumplingStore</BasePath>
+      <RelativePath>images/Product/a82a7959-fda1-4e43-a9aa-aea24e2bfc38.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>17fa8swo4i</Fingerprint>
+      <Integrity>k5xtn1oi7lvRfLjBx3HWemFvQQ7l/RhUPp/4pgsf1Ec=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Product\a82a7959-fda1-4e43-a9aa-aea24e2bfc38.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Product\d6ce91bd-e27c-4d81-aa46-da6d7780ac3d.png'))">
       <SourceType>Package</SourceType>
       <SourceId>DumplingStore</SourceId>
@@ -161,6 +233,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Product\d980d6ce-660c-4fda-881c-5365de8409e1.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Product\d9d422f8-2c41-49fa-bff7-ea7afdec7602.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DumplingStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DumplingStore</BasePath>
+      <RelativePath>images/Product/d9d422f8-2c41-49fa-bff7-ea7afdec7602.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>10qvcqxpta</Fingerprint>
+      <Integrity>YRkZT58yk+QlMHmQ62krLqfvJR9E2KBIMaIaA6XF/lA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Product\d9d422f8-2c41-49fa-bff7-ea7afdec7602.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Product\f89698ff-4e82-4b43-91dd-d2098680a70f.png'))">
       <SourceType>Package</SourceType>

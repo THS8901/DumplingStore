@@ -63,11 +63,16 @@ D:\GithubRepositories\DumplingStore\DumplingStore\TeaTimeDemo\wwwroot\lib\bootst
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\dum.png
+wwwroot\images\Product\1ab04bab-073a-41a5-9069-0c756486c98f.png
+wwwroot\images\Product\285c8fff-3093-46a4-bc1b-4d7129e47c2f.png
+wwwroot\images\Product\49ca35cd-7e32-4905-bdb3-ca164c3dc19e.png
 wwwroot\images\Product\4a300be3-2c1b-414f-b4e9-1289a2305aa9.png
 wwwroot\images\Product\9d60e43c-113d-482c-9c63-aacfbc46e8ee.png
 wwwroot\images\Product\a1f98369-cc35-47a4-bafa-657b42ba6199.png
+wwwroot\images\Product\a82a7959-fda1-4e43-a9aa-aea24e2bfc38.png
 wwwroot\images\Product\d6ce91bd-e27c-4d81-aa46-da6d7780ac3d.png
 wwwroot\images\Product\d980d6ce-660c-4fda-881c-5365de8409e1.png
+wwwroot\images\Product\d9d422f8-2c41-49fa-bff7-ea7afdec7602.png
 wwwroot\images\Product\f89698ff-4e82-4b43-91dd-d2098680a70f.png
 wwwroot\js\product.js
 wwwroot\js\site.js
